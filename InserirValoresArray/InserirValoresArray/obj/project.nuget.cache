@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rtelMqM9C+Nk1AZOpBUGSKWJz/eZv5clOjoX8Z9NiUE8aSByx+eiLr1bkH1We27i1nLvzAPh9hSqmnW9I1u/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tccon\\Documents\\Exercícios C#\\InserirValoresArray\\InserirValoresArray\\InserirValoresArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tccon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

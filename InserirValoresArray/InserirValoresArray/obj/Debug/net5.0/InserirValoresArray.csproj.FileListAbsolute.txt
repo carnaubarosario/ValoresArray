@@ -1,0 +1,15 @@
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.exe
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.deps.json
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.runtimeconfig.json
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.runtimeconfig.dev.json
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.dll
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\ref\InserirValoresArray.dll
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\bin\Debug\net5.0\InserirValoresArray.pdb
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.AssemblyInfoInputs.cache
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.AssemblyInfo.cs
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.csproj.CoreCompileInputs.cache
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.dll
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\ref\InserirValoresArray.dll
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.pdb
+C:\Users\tccon\Documents\Exercícios C#\InserirValoresArray\InserirValoresArray\obj\Debug\net5.0\InserirValoresArray.genruntimeconfig.cache

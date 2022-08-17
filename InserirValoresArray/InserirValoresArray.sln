@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InserirValoresArray", "InserirValoresArray\InserirValoresArray.csproj", "{923BB4BE-6C1B-4800-8202-98DB3DAAD214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923BB4BE-6C1B-4800-8202-98DB3DAAD214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923BB4BE-6C1B-4800-8202-98DB3DAAD214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923BB4BE-6C1B-4800-8202-98DB3DAAD214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923BB4BE-6C1B-4800-8202-98DB3DAAD214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D93A8EA-1438-47A5-A857-68BCC997C404}
+	EndGlobalSection
+EndGlobal
